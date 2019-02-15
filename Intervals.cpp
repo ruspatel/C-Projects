@@ -192,7 +192,6 @@ void interval_calculator(){
 				im_interval[1] = 0;
 			}
 		}
-		//mistake in instructions?
 		else if(input == "scalar_divided_by"){
 			std::cin>>c;
 			if((a < 0) && (b > 0)){
