@@ -97,7 +97,6 @@ void interval_calculator(){
 								std::cout<<"["<<im_interval[0]<<", "<<im_interval[1]<<"]";
 			}
 		}
-		//is not outputting properly
 		else if(input == "mc"){
 			if(im_interval[0] > im_interval[1]){
 				std::cout<<"--";
