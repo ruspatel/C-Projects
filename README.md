@@ -1,3 +1,3 @@
-# C-Projects
+# Cpp-Projects
 
 School projects for learning to program in C++.
